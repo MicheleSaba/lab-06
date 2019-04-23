@@ -51,3 +51,6 @@ function Weather(day) {
 }
 
 app.listen(PORT, () => console.log(`App is up and running on ${PORT}`));
+
+// ERROR HANDLING FOR EMPTY QUERY
+app.use((req, res) => res.status(500).send('Please enter a location!'));
