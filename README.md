@@ -1,7 +1,7 @@
 # Project Name
 
-**Author**: Your Name Goes Here
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Author**: Rory Letteney
+**Version**: 1.0.6
 
 ## Overview
 This application takes in user input in the form of a city name, and returns the weather for said location.
@@ -14,11 +14,10 @@ To use this app:
 We are using JavaScript, NodeJS, Express, and CORS. Using NodeJS we send a request to the Dark Sky API to retrieve the weather data for a user's query.
 
 ## Change Log
-01-01-2001 4:59pm - Application now has a fully-functional express server, with GET routes for the location resource and weather resource. Also handles an status 500 errors.
+01-01-2001 4:59pm - Application now has a fully-functional express server, with GET routes for the location resource and weather resource. Also handles status 500 errors.
 
 ## Credits and Collaborations
 Michele Saba - https://github.com/MicheleSaba
-Rory Letteney - https://github.com/RoryLetteney
 David
 
 
