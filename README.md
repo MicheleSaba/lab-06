@@ -21,12 +21,32 @@
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 -->
 
-Number and name of feature: ________________________________
+Number and name of feature: Feature #1: Location Route
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 9:36am
 
-Finish time: _____
+Finish time: 10:15am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 39 minutes
+
+Number and name of feature: Feature #2: Weather Route
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 10:15am
+
+Finish time: 10:48am
+
+Actual time needed to complete: 33 minutes
+
+Number and name of feature: Feature #3: Status 500 Error Handling
+
+Estimate of time needed to complete: 10 minutes
+
+Start time: 11:05am
+
+Finish time: 11:15am
+
+Actual time needed to complete: 10 minutes
