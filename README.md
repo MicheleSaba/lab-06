@@ -4,22 +4,23 @@
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+This application takes in user input in the form of a city name, and returns the weather for said location.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+To use this app:
+> npm install
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+We are using JavaScript, NodeJS, Express, and CORS. Using NodeJS we send a request to the Dark Sky API to retrieve the weather data for a user's query.
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
-
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource.
+01-01-2001 4:59pm - Application now has a fully-functional express server, with GET routes for the location resource and weather resource. Also handles an status 500 errors.
 
 ## Credits and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
+Michele Saba - https://github.com/MicheleSaba
+Rory Letteney - https://github.com/RoryLetteney
+David
+
 
 Number and name of feature: Feature #1: Location Route
 
